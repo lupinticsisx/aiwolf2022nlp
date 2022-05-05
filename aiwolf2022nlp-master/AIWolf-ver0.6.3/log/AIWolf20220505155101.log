@@ -1,0 +1,863 @@
+0,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,2,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,4,SEER,ALIVE,SampleRoleAssignPlayer
+0,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+0,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,11,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,13,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+0,status,14,MEDIUM,ALIVE,SampleRoleAssignPlayer
+0,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,whisper,0,0,7,COMINGOUT Agent[07] SEER
+0,whisper,1,0,2,COMINGOUT Agent[02] VILLAGER
+0,whisper,2,0,3,COMINGOUT Agent[03] VILLAGER
+0,whisper,3,1,7,Skip
+0,whisper,4,1,2,Skip
+0,whisper,5,1,3,Skip
+0,whisper,6,2,3,Skip
+0,whisper,7,2,2,Skip
+0,whisper,8,2,7,Skip
+0,whisper,9,3,2,Over
+0,whisper,10,3,3,Over
+0,whisper,11,3,7,Over
+0,divine,4,10,HUMAN
+1,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,2,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+1,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+1,status,4,SEER,ALIVE,SampleRoleAssignPlayer
+1,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+1,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+1,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,11,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,status,13,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+1,status,14,MEDIUM,ALIVE,SampleRoleAssignPlayer
+1,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+1,talk,0,0,12,VOTE Agent[06]
+1,talk,1,0,6,VOTE Agent[12]
+1,talk,2,0,3,VOTE Agent[14]
+1,talk,3,0,14,VOTE Agent[11]
+1,talk,4,0,1,VOTE Agent[09]
+1,talk,5,0,2,VOTE Agent[04]
+1,talk,6,0,10,VOTE Agent[06]
+1,talk,7,0,4,VOTE Agent[11]
+1,talk,8,0,11,VOTE Agent[02]
+1,talk,9,0,15,VOTE Agent[05]
+1,talk,10,0,8,VOTE Agent[02]
+1,talk,11,0,7,VOTE Agent[15]
+1,talk,12,0,13,VOTE Agent[02]
+1,talk,13,0,5,VOTE Agent[13]
+1,talk,14,0,9,VOTE Agent[11]
+1,talk,15,1,1,REQUEST ANY (VOTE Agent[09])
+1,talk,16,1,13,REQUEST ANY (VOTE Agent[02])
+1,talk,17,1,10,REQUEST ANY (VOTE Agent[06])
+1,talk,18,1,4,REQUEST ANY (VOTE Agent[11])
+1,talk,19,1,8,REQUEST ANY (VOTE Agent[02])
+1,talk,20,1,5,REQUEST ANY (VOTE Agent[13])
+1,talk,21,1,7,REQUEST ANY (VOTE Agent[15])
+1,talk,22,1,15,REQUEST ANY (VOTE Agent[05])
+1,talk,23,1,3,REQUEST ANY (VOTE Agent[14])
+1,talk,24,1,11,REQUEST ANY (VOTE Agent[02])
+1,talk,25,1,6,REQUEST ANY (VOTE Agent[12])
+1,talk,26,1,12,REQUEST ANY (VOTE Agent[06])
+1,talk,27,1,9,REQUEST ANY (VOTE Agent[11])
+1,talk,28,1,14,REQUEST ANY (VOTE Agent[11])
+1,talk,29,1,2,REQUEST ANY (VOTE Agent[04])
+1,talk,30,2,10,Skip
+1,talk,31,2,15,Skip
+1,talk,32,2,3,Skip
+1,talk,33,2,14,Skip
+1,talk,34,2,1,Skip
+1,talk,35,2,13,Skip
+1,talk,36,2,4,Skip
+1,talk,37,2,7,Skip
+1,talk,38,2,9,Skip
+1,talk,39,2,11,Skip
+1,talk,40,2,8,Skip
+1,talk,41,2,5,Skip
+1,talk,42,2,6,Skip
+1,talk,43,2,2,Skip
+1,talk,44,2,12,Skip
+1,talk,45,3,15,Skip
+1,talk,46,3,3,Skip
+1,talk,47,3,14,Skip
+1,talk,48,3,6,Skip
+1,talk,49,3,13,Skip
+1,talk,50,3,12,Skip
+1,talk,51,3,1,Skip
+1,talk,52,3,10,Skip
+1,talk,53,3,9,Skip
+1,talk,54,3,11,Skip
+1,talk,55,3,2,Skip
+1,talk,56,3,4,Skip
+1,talk,57,3,8,Skip
+1,talk,58,3,7,Skip
+1,talk,59,3,5,Skip
+1,talk,60,4,6,Over
+1,talk,61,4,10,Over
+1,talk,62,4,8,Over
+1,talk,63,4,13,Over
+1,talk,64,4,4,Over
+1,talk,65,4,12,Over
+1,talk,66,4,3,Over
+1,talk,67,4,2,Over
+1,talk,68,4,11,Over
+1,talk,69,4,9,Over
+1,talk,70,4,15,Over
+1,talk,71,4,7,Over
+1,talk,72,4,1,Over
+1,talk,73,4,14,Over
+1,talk,74,4,5,Over
+1,vote,1,11
+1,vote,2,4
+1,vote,3,14
+1,vote,4,14
+1,vote,5,11
+1,vote,6,9
+1,vote,7,15
+1,vote,8,11
+1,vote,9,11
+1,vote,10,4
+1,vote,11,2
+1,vote,12,5
+1,vote,13,14
+1,vote,14,6
+1,vote,15,6
+1,execute,11,VILLAGER
+1,divine,4,13,HUMAN
+1,whisper,0,0,3,ATTACK Agent[01]
+1,whisper,1,0,2,ATTACK Agent[01]
+1,whisper,2,0,7,ATTACK Agent[13]
+1,whisper,3,1,2,Skip
+1,whisper,4,1,3,Skip
+1,whisper,5,1,7,Skip
+1,whisper,6,2,7,Skip
+1,whisper,7,2,3,Skip
+1,whisper,8,2,2,Skip
+1,whisper,9,3,7,Over
+1,whisper,10,3,3,Over
+1,whisper,11,3,2,Over
+1,guard,13,8,POSSESSED
+1,attackVote,2,1
+1,attackVote,3,1
+1,attackVote,7,13
+1,attack,1,true
+2,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+2,status,2,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+2,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+2,status,4,SEER,ALIVE,SampleRoleAssignPlayer
+2,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+2,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+2,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+2,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,status,13,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+2,status,14,MEDIUM,ALIVE,SampleRoleAssignPlayer
+2,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+2,talk,0,0,5,VOTE Agent[03]
+2,talk,1,0,14,VOTE Agent[08]
+2,talk,2,0,15,VOTE Agent[13]
+2,talk,3,0,13,VOTE Agent[06]
+2,talk,4,0,7,COMINGOUT Agent[07] SEER
+2,talk,5,0,4,COMINGOUT Agent[04] SEER
+2,talk,6,0,8,COMINGOUT Agent[08] SEER
+2,talk,7,0,12,VOTE Agent[02]
+2,talk,8,0,6,VOTE Agent[13]
+2,talk,9,0,9,VOTE Agent[05]
+2,talk,10,0,3,VOTE Agent[14]
+2,talk,11,0,10,VOTE Agent[15]
+2,talk,12,0,2,VOTE Agent[04]
+2,talk,13,1,7,AND (DAY 1 (DIVINED Agent[15] WEREWOLF)) (DAY 2 (DIVINED Agent[03] HUMAN))
+2,talk,14,1,2,REQUEST ANY (VOTE Agent[04])
+2,talk,15,1,9,REQUEST ANY (VOTE Agent[05])
+2,talk,16,1,3,REQUEST ANY (VOTE Agent[14])
+2,talk,17,1,13,REQUEST ANY (VOTE Agent[06])
+2,talk,18,1,14,REQUEST ANY (VOTE Agent[08])
+2,talk,19,1,8,AND (DAY 1 (DIVINED Agent[07] HUMAN)) (DAY 2 (DIVINED Agent[04] WEREWOLF))
+2,talk,20,1,12,REQUEST ANY (VOTE Agent[02])
+2,talk,21,1,15,REQUEST ANY (VOTE Agent[13])
+2,talk,22,1,6,REQUEST ANY (VOTE Agent[13])
+2,talk,23,1,5,REQUEST ANY (VOTE Agent[03])
+2,talk,24,1,4,AND (DAY 1 (DIVINED Agent[10] HUMAN)) (DAY 2 (DIVINED Agent[13] HUMAN))
+2,talk,25,1,10,REQUEST ANY (VOTE Agent[15])
+2,talk,26,2,9,Skip
+2,talk,27,2,6,Skip
+2,talk,28,2,2,Skip
+2,talk,29,2,3,Skip
+2,talk,30,2,4,DIVINED Agent[10] HUMAN
+2,talk,31,2,10,Skip
+2,talk,32,2,13,Skip
+2,talk,33,2,15,BECAUSE (AND (COMINGOUT Agent[15] VILLAGER) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+2,talk,34,2,5,Skip
+2,talk,35,2,8,DIVINED Agent[07] HUMAN
+2,talk,36,2,14,Skip
+2,talk,37,2,12,Skip
+2,talk,38,2,7,DIVINED Agent[15] WEREWOLF
+2,talk,39,3,10,Skip
+2,talk,40,3,6,Skip
+2,talk,41,3,8,DIVINED Agent[04] WEREWOLF
+2,talk,42,3,9,Skip
+2,talk,43,3,3,Skip
+2,talk,44,3,12,Skip
+2,talk,45,3,13,Skip
+2,talk,46,3,15,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+2,talk,47,3,14,Skip
+2,talk,48,3,4,DIVINED Agent[13] HUMAN
+2,talk,49,3,2,Skip
+2,talk,50,3,5,Skip
+2,talk,51,3,7,DIVINED Agent[03] HUMAN
+2,talk,52,4,8,BECAUSE (DAY 2 (DIVINED Agent[04] WEREWOLF)) (AND (VOTE Agent[04]) (REQUEST ANY (VOTE Agent[04])))
+2,talk,53,4,13,Over
+2,talk,54,4,10,Over
+2,talk,55,4,4,BECAUSE (AND (COMINGOUT Agent[04] SEER) (Agent[07] COMINGOUT Agent[07] SEER)) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+2,talk,56,4,2,Over
+2,talk,57,4,5,Over
+2,talk,58,4,15,VOTE Agent[07]
+2,talk,59,4,3,Over
+2,talk,60,4,6,Over
+2,talk,61,4,14,Over
+2,talk,62,4,7,BECAUSE (DAY 1 (DIVINED Agent[15] WEREWOLF)) (AND (VOTE Agent[15]) (REQUEST ANY (VOTE Agent[15])))
+2,talk,63,4,9,Over
+2,talk,64,4,12,Over
+2,talk,65,5,3,Over
+2,talk,66,5,5,Over
+2,talk,67,5,10,Over
+2,talk,68,5,7,VOTE Agent[15]
+2,talk,69,5,13,Over
+2,talk,70,5,14,Over
+2,talk,71,5,9,Over
+2,talk,72,5,2,Over
+2,talk,73,5,4,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+2,talk,74,5,15,REQUEST ANY (VOTE Agent[07])
+2,talk,75,5,8,VOTE Agent[04]
+2,talk,76,5,12,Over
+2,talk,77,5,6,Over
+2,talk,78,6,9,Over
+2,talk,79,6,10,Over
+2,talk,80,6,15,Skip
+2,talk,81,6,6,Over
+2,talk,82,6,13,Over
+2,talk,83,6,12,Over
+2,talk,84,6,2,Over
+2,talk,85,6,14,Over
+2,talk,86,6,5,Over
+2,talk,87,6,3,Over
+2,talk,88,6,8,REQUEST ANY (VOTE Agent[04])
+2,talk,89,6,7,REQUEST ANY (VOTE Agent[15])
+2,talk,90,6,4,VOTE Agent[07]
+2,talk,91,7,13,Over
+2,talk,92,7,10,Over
+2,talk,93,7,14,Over
+2,talk,94,7,9,Over
+2,talk,95,7,15,Skip
+2,talk,96,7,3,Over
+2,talk,97,7,8,Skip
+2,talk,98,7,4,REQUEST ANY (VOTE Agent[07])
+2,talk,99,7,5,Over
+2,talk,100,7,12,Over
+2,talk,101,7,2,Over
+2,talk,102,7,7,Skip
+2,talk,103,7,6,Over
+2,talk,104,8,4,Skip
+2,talk,105,8,12,Over
+2,talk,106,8,3,Over
+2,talk,107,8,2,Over
+2,talk,108,8,5,Over
+2,talk,109,8,6,Over
+2,talk,110,8,7,Skip
+2,talk,111,8,9,Over
+2,talk,112,8,14,Over
+2,talk,113,8,13,Over
+2,talk,114,8,15,Over
+2,talk,115,8,8,Skip
+2,talk,116,8,10,Over
+2,talk,117,9,12,Over
+2,talk,118,9,5,Over
+2,talk,119,9,7,Over
+2,talk,120,9,4,Skip
+2,talk,121,9,8,Over
+2,talk,122,9,13,Over
+2,talk,123,9,15,Over
+2,talk,124,9,3,Over
+2,talk,125,9,2,Over
+2,talk,126,9,14,Over
+2,talk,127,9,10,Over
+2,talk,128,9,9,Over
+2,talk,129,9,6,Over
+2,talk,130,10,3,Over
+2,talk,131,10,15,Over
+2,talk,132,10,2,Over
+2,talk,133,10,4,Over
+2,talk,134,10,7,Over
+2,talk,135,10,12,Over
+2,talk,136,10,5,Over
+2,talk,137,10,13,Over
+2,talk,138,10,14,Over
+2,talk,139,10,8,Over
+2,talk,140,10,6,Over
+2,talk,141,10,9,Over
+2,talk,142,10,10,Over
+2,vote,2,4
+2,vote,3,14
+2,vote,4,7
+2,vote,5,15
+2,vote,6,5
+2,vote,7,15
+2,vote,8,4
+2,vote,9,8
+2,vote,10,2
+2,vote,12,7
+2,vote,13,2
+2,vote,14,2
+2,vote,15,7
+2,vote,2,7
+2,vote,3,2
+2,vote,4,2
+2,vote,5,2
+2,vote,6,2
+2,vote,7,2
+2,vote,8,2
+2,vote,9,2
+2,vote,10,2
+2,vote,12,2
+2,vote,13,2
+2,vote,14,2
+2,vote,15,2
+2,execute,2,WEREWOLF
+2,divine,4,7,WEREWOLF
+2,whisper,0,0,3,BECAUSE (AND (NOT (COMINGOUT Agent[08] WEREWOLF)) (COMINGOUT Agent[07] WEREWOLF) (DAY 2 (Agent[08] DIVINED Agent[07] HUMAN))) (ESTIMATE Agent[08] POSSESSED)
+2,whisper,1,0,7,BECAUSE (AND (NOT (COMINGOUT Agent[08] WEREWOLF)) (COMINGOUT Agent[07] WEREWOLF) (DAY 2 (Agent[08] DIVINED Agent[07] HUMAN))) (ESTIMATE Agent[08] POSSESSED)
+2,whisper,2,1,7,BECAUSE (Agent[04] COMINGOUT Agent[04] SEER) (ATTACK Agent[04])
+2,whisper,3,1,3,BECAUSE (Agent[04] COMINGOUT Agent[04] SEER) (ATTACK Agent[04])
+2,whisper,4,2,3,ATTACK Agent[04]
+2,whisper,5,2,7,ATTACK Agent[04]
+2,whisper,6,3,7,Skip
+2,whisper,7,3,3,Skip
+2,whisper,8,4,7,Skip
+2,whisper,9,4,3,Skip
+2,whisper,10,5,7,Over
+2,whisper,11,5,3,Over
+2,guard,13,4,SEER
+2,attackVote,3,4
+2,attackVote,7,4
+2,attack,4,false
+3,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+3,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+3,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+3,status,4,SEER,ALIVE,SampleRoleAssignPlayer
+3,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+3,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+3,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+3,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,status,13,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+3,status,14,MEDIUM,ALIVE,SampleRoleAssignPlayer
+3,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+3,talk,0,0,10,VOTE Agent[05]
+3,talk,1,0,7,DAY 3 (DIVINED Agent[14] HUMAN)
+3,talk,2,0,12,VOTE Agent[05]
+3,talk,3,0,8,DAY 3 (DIVINED Agent[14] HUMAN)
+3,talk,4,0,9,VOTE Agent[04]
+3,talk,5,0,6,VOTE Agent[07]
+3,talk,6,0,13,VOTE Agent[08]
+3,talk,7,0,15,BECAUSE (AND (COMINGOUT Agent[15] VILLAGER) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+3,talk,8,0,5,VOTE Agent[10]
+3,talk,9,0,14,COMINGOUT Agent[14] MEDIUM
+3,talk,10,0,4,DAY 3 (DIVINED Agent[07] WEREWOLF)
+3,talk,11,0,3,VOTE Agent[14]
+3,talk,12,1,13,REQUEST ANY (VOTE Agent[08])
+3,talk,13,1,6,REQUEST ANY (VOTE Agent[07])
+3,talk,14,1,15,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+3,talk,15,1,4,DIVINED Agent[07] WEREWOLF
+3,talk,16,1,9,REQUEST ANY (VOTE Agent[04])
+3,talk,17,1,10,REQUEST ANY (VOTE Agent[05])
+3,talk,18,1,7,DIVINED Agent[14] HUMAN
+3,talk,19,1,12,REQUEST ANY (VOTE Agent[05])
+3,talk,20,1,14,AND (DAY 2 (IDENTIFIED Agent[11] HUMAN)) (DAY 3 (IDENTIFIED Agent[02] WEREWOLF))
+3,talk,21,1,3,REQUEST ANY (VOTE Agent[14])
+3,talk,22,1,8,DIVINED Agent[14] HUMAN
+3,talk,23,1,5,REQUEST ANY (VOTE Agent[10])
+3,talk,24,2,7,BECAUSE (DAY 1 (DIVINED Agent[15] WEREWOLF)) (AND (VOTE Agent[15]) (REQUEST ANY (VOTE Agent[15])))
+3,talk,25,2,12,Skip
+3,talk,26,2,13,Skip
+3,talk,27,2,15,VOTE Agent[07]
+3,talk,28,2,8,BECAUSE (DAY 2 (DIVINED Agent[04] WEREWOLF)) (AND (VOTE Agent[04]) (REQUEST ANY (VOTE Agent[04])))
+3,talk,29,2,10,Skip
+3,talk,30,2,4,BECAUSE (DAY 3 (DIVINED Agent[07] WEREWOLF)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+3,talk,31,2,3,Skip
+3,talk,32,2,14,IDENTIFIED Agent[11] HUMAN
+3,talk,33,2,9,Skip
+3,talk,34,2,6,Skip
+3,talk,35,2,5,Skip
+3,talk,36,3,9,Skip
+3,talk,37,3,8,VOTE Agent[04]
+3,talk,38,3,12,Skip
+3,talk,39,3,14,IDENTIFIED Agent[02] WEREWOLF
+3,talk,40,3,15,REQUEST ANY (VOTE Agent[07])
+3,talk,41,3,5,Skip
+3,talk,42,3,7,VOTE Agent[15]
+3,talk,43,3,6,Skip
+3,talk,44,3,13,Skip
+3,talk,45,3,3,Skip
+3,talk,46,3,4,VOTE Agent[07]
+3,talk,47,3,10,Skip
+3,talk,48,4,6,Over
+3,talk,49,4,13,Over
+3,talk,50,4,9,Over
+3,talk,51,4,12,Over
+3,talk,52,4,3,Over
+3,talk,53,4,7,REQUEST ANY (VOTE Agent[15])
+3,talk,54,4,10,Over
+3,talk,55,4,5,Over
+3,talk,56,4,8,REQUEST ANY (VOTE Agent[04])
+3,talk,57,4,4,REQUEST ANY (VOTE Agent[07])
+3,talk,58,4,15,Skip
+3,talk,59,4,14,VOTE Agent[03]
+3,talk,60,5,13,Over
+3,talk,61,5,15,Skip
+3,talk,62,5,4,Skip
+3,talk,63,5,5,Over
+3,talk,64,5,3,Over
+3,talk,65,5,14,REQUEST ANY (VOTE Agent[03])
+3,talk,66,5,6,Over
+3,talk,67,5,7,Skip
+3,talk,68,5,8,Skip
+3,talk,69,5,10,Over
+3,talk,70,5,9,Over
+3,talk,71,5,12,Over
+3,talk,72,6,14,Skip
+3,talk,73,6,6,Over
+3,talk,74,6,10,Over
+3,talk,75,6,9,Over
+3,talk,76,6,12,Over
+3,talk,77,6,4,Skip
+3,talk,78,6,5,Over
+3,talk,79,6,7,Skip
+3,talk,80,6,13,Over
+3,talk,81,6,15,Over
+3,talk,82,6,3,Over
+3,talk,83,6,8,Skip
+3,talk,84,7,3,Over
+3,talk,85,7,15,Over
+3,talk,86,7,13,Over
+3,talk,87,7,8,Over
+3,talk,88,7,12,Over
+3,talk,89,7,14,Skip
+3,talk,90,7,7,Over
+3,talk,91,7,10,Over
+3,talk,92,7,4,Over
+3,talk,93,7,9,Over
+3,talk,94,7,6,Over
+3,talk,95,7,5,Over
+3,talk,96,8,13,Over
+3,talk,97,8,7,Over
+3,talk,98,8,6,Over
+3,talk,99,8,12,Over
+3,talk,100,8,5,Over
+3,talk,101,8,10,Over
+3,talk,102,8,14,Over
+3,talk,103,8,4,Over
+3,talk,104,8,8,Over
+3,talk,105,8,3,Over
+3,talk,106,8,9,Over
+3,talk,107,8,15,Over
+3,vote,3,14
+3,vote,4,7
+3,vote,5,8
+3,vote,6,7
+3,vote,7,15
+3,vote,8,4
+3,vote,9,5
+3,vote,10,4
+3,vote,12,4
+3,vote,13,10
+3,vote,14,4
+3,vote,15,7
+3,execute,4,SEER
+3,whisper,0,0,3,BECAUSE (Agent[14] COMINGOUT Agent[14] MEDIUM) (ATTACK Agent[14])
+3,whisper,1,0,7,BECAUSE (Agent[14] COMINGOUT Agent[14] MEDIUM) (ATTACK Agent[14])
+3,whisper,2,1,3,ATTACK Agent[14]
+3,whisper,3,1,7,ATTACK Agent[14]
+3,whisper,4,2,3,Skip
+3,whisper,5,2,7,Skip
+3,whisper,6,3,3,Skip
+3,whisper,7,3,7,Skip
+3,whisper,8,4,3,Over
+3,whisper,9,4,7,Over
+3,guard,13,7,WEREWOLF
+3,attackVote,3,14
+3,attackVote,7,14
+3,attack,14,true
+4,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+4,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+4,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+4,status,4,SEER,DEAD,SampleRoleAssignPlayer
+4,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+4,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+4,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+4,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,status,13,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+4,status,14,MEDIUM,DEAD,SampleRoleAssignPlayer
+4,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+4,talk,0,0,10,VOTE Agent[07]
+4,talk,1,0,8,DAY 4 (DIVINED Agent[09] HUMAN)
+4,talk,2,0,9,VOTE Agent[13]
+4,talk,3,0,15,BECAUSE (AND (COMINGOUT Agent[15] VILLAGER) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+4,talk,4,0,12,VOTE Agent[03]
+4,talk,5,0,3,VOTE Agent[14]
+4,talk,6,0,13,VOTE Agent[10]
+4,talk,7,0,6,VOTE Agent[10]
+4,talk,8,0,5,VOTE Agent[08]
+4,talk,9,0,7,DAY 4 (DIVINED Agent[06] HUMAN)
+4,talk,10,1,12,REQUEST ANY (VOTE Agent[03])
+4,talk,11,1,15,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+4,talk,12,1,13,REQUEST ANY (VOTE Agent[10])
+4,talk,13,1,6,REQUEST ANY (VOTE Agent[10])
+4,talk,14,1,3,REQUEST ANY (VOTE Agent[14])
+4,talk,15,1,10,REQUEST ANY (VOTE Agent[07])
+4,talk,16,1,9,REQUEST ANY (VOTE Agent[13])
+4,talk,17,1,5,REQUEST ANY (VOTE Agent[08])
+4,talk,18,1,7,DIVINED Agent[06] HUMAN
+4,talk,19,1,8,DIVINED Agent[09] HUMAN
+4,talk,20,2,12,Skip
+4,talk,21,2,6,Skip
+4,talk,22,2,7,BECAUSE (DAY 1 (DIVINED Agent[15] WEREWOLF)) (AND (VOTE Agent[15]) (REQUEST ANY (VOTE Agent[15])))
+4,talk,23,2,15,VOTE Agent[07]
+4,talk,24,2,8,BECAUSE (AND (AND (COMINGOUT Agent[08] SEER) (Agent[07] COMINGOUT Agent[07] SEER)) (DAY 1 (DIVINED Agent[07] HUMAN))) (ESTIMATE Agent[07] POSSESSED)
+4,talk,25,2,5,Skip
+4,talk,26,2,13,Skip
+4,talk,27,2,10,Skip
+4,talk,28,2,3,Skip
+4,talk,29,2,9,Skip
+4,talk,30,3,3,Skip
+4,talk,31,3,8,VOTE Agent[12]
+4,talk,32,3,9,Skip
+4,talk,33,3,6,Skip
+4,talk,34,3,13,Skip
+4,talk,35,3,15,REQUEST ANY (VOTE Agent[07])
+4,talk,36,3,7,VOTE Agent[15]
+4,talk,37,3,10,Skip
+4,talk,38,3,12,Skip
+4,talk,39,3,5,Skip
+4,talk,40,4,13,Over
+4,talk,41,4,5,Over
+4,talk,42,4,15,Skip
+4,talk,43,4,9,Over
+4,talk,44,4,12,Over
+4,talk,45,4,7,REQUEST ANY (VOTE Agent[15])
+4,talk,46,4,6,Over
+4,talk,47,4,3,Over
+4,talk,48,4,10,Over
+4,talk,49,4,8,REQUEST ANY (VOTE Agent[12])
+4,talk,50,5,10,Over
+4,talk,51,5,12,Over
+4,talk,52,5,13,Over
+4,talk,53,5,3,Over
+4,talk,54,5,15,Skip
+4,talk,55,5,7,Skip
+4,talk,56,5,9,Over
+4,talk,57,5,6,Over
+4,talk,58,5,5,Over
+4,talk,59,5,8,Skip
+4,talk,60,6,12,Over
+4,talk,61,6,7,Skip
+4,talk,62,6,5,Over
+4,talk,63,6,9,Over
+4,talk,64,6,13,Over
+4,talk,65,6,15,Over
+4,talk,66,6,6,Over
+4,talk,67,6,10,Over
+4,talk,68,6,3,Over
+4,talk,69,6,8,Skip
+4,talk,70,7,6,Over
+4,talk,71,7,8,Over
+4,talk,72,7,5,Over
+4,talk,73,7,9,Over
+4,talk,74,7,7,Over
+4,talk,75,7,10,Over
+4,talk,76,7,13,Over
+4,talk,77,7,15,Over
+4,talk,78,7,12,Over
+4,talk,79,7,3,Over
+4,vote,3,13
+4,vote,5,7
+4,vote,6,13
+4,vote,7,15
+4,vote,8,13
+4,vote,9,10
+4,vote,10,13
+4,vote,12,8
+4,vote,13,15
+4,vote,15,7
+4,execute,13,BODYGUARD
+4,whisper,0,0,3,ATTACK Agent[15]
+4,whisper,1,0,7,ATTACK Agent[06]
+4,whisper,2,1,3,Skip
+4,whisper,3,1,7,Skip
+4,whisper,4,2,7,Skip
+4,whisper,5,2,3,Skip
+4,whisper,6,3,7,Over
+4,whisper,7,3,3,Over
+4,attackVote,3,15
+4,attackVote,7,6
+4,attackVote,3,15
+4,attackVote,7,6
+4,attack,15,true
+5,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+5,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+5,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+5,status,4,SEER,DEAD,SampleRoleAssignPlayer
+5,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+5,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+5,status,7,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+5,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+5,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+5,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+5,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+5,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+5,status,13,BODYGUARD,DEAD,SampleRoleAssignPlayer
+5,status,14,MEDIUM,DEAD,SampleRoleAssignPlayer
+5,status,15,VILLAGER,DEAD,SampleRoleAssignPlayer
+5,talk,0,0,3,VOTE Agent[14]
+5,talk,1,0,9,BECAUSE (AND (ANY ATTACKED Agent[15]) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+5,talk,2,0,7,DAY 5 (DIVINED Agent[10] HUMAN)
+5,talk,3,0,12,BECAUSE (AND (ANY ATTACKED Agent[15]) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+5,talk,4,0,5,BECAUSE (AND (ANY ATTACKED Agent[15]) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+5,talk,5,0,8,DAY 5 (DIVINED Agent[05] HUMAN)
+5,talk,6,0,10,BECAUSE (AND (ANY ATTACKED Agent[15]) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+5,talk,7,0,6,BECAUSE (AND (ANY ATTACKED Agent[15]) (DAY 2 (Agent[07] DIVINED Agent[15] WEREWOLF))) (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED))
+5,talk,8,1,8,DIVINED Agent[05] HUMAN
+5,talk,9,1,6,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+5,talk,10,1,3,REQUEST ANY (VOTE Agent[14])
+5,talk,11,1,10,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+5,talk,12,1,9,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+5,talk,13,1,12,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+5,talk,14,1,7,DIVINED Agent[10] HUMAN
+5,talk,15,1,5,BECAUSE (XOR (ESTIMATE Agent[07] WEREWOLF) (ESTIMATE Agent[07] POSSESSED)) (AND (VOTE Agent[07]) (REQUEST ANY (VOTE Agent[07])))
+5,talk,16,2,9,VOTE Agent[07]
+5,talk,17,2,5,VOTE Agent[07]
+5,talk,18,2,3,Skip
+5,talk,19,2,6,VOTE Agent[07]
+5,talk,20,2,10,VOTE Agent[07]
+5,talk,21,2,8,VOTE Agent[11]
+5,talk,22,2,7,BECAUSE (AND (NOT (COMINGOUT Agent[08] WEREWOLF)) (COMINGOUT Agent[07] WEREWOLF) (DAY 2 (Agent[08] DIVINED Agent[07] HUMAN))) (ESTIMATE Agent[08] POSSESSED)
+5,talk,23,2,12,VOTE Agent[07]
+5,talk,24,3,8,REQUEST ANY (VOTE Agent[11])
+5,talk,25,3,12,REQUEST ANY (VOTE Agent[07])
+5,talk,26,3,10,REQUEST ANY (VOTE Agent[07])
+5,talk,27,3,6,REQUEST ANY (VOTE Agent[07])
+5,talk,28,3,3,Skip
+5,talk,29,3,5,REQUEST ANY (VOTE Agent[07])
+5,talk,30,3,9,REQUEST ANY (VOTE Agent[07])
+5,talk,31,3,7,BECAUSE (ESTIMATE Agent[08] POSSESSED) (AND (VOTE Agent[08]) (REQUEST ANY (VOTE Agent[08])))
+5,talk,32,4,12,Skip
+5,talk,33,4,8,VOTE Agent[12]
+5,talk,34,4,3,Over
+5,talk,35,4,6,Skip
+5,talk,36,4,5,Skip
+5,talk,37,4,10,Skip
+5,talk,38,4,7,VOTE Agent[08]
+5,talk,39,4,9,Skip
+5,talk,40,5,7,REQUEST ANY (VOTE Agent[08])
+5,talk,41,5,10,Skip
+5,talk,42,5,12,Skip
+5,talk,43,5,6,Skip
+5,talk,44,5,3,Over
+5,talk,45,5,8,REQUEST ANY (VOTE Agent[12])
+5,talk,46,5,9,Skip
+5,talk,47,5,5,Skip
+5,talk,48,6,9,Over
+5,talk,49,6,7,Skip
+5,talk,50,6,6,Over
+5,talk,51,6,5,Over
+5,talk,52,6,12,Over
+5,talk,53,6,3,Over
+5,talk,54,6,8,Skip
+5,talk,55,6,10,Over
+5,talk,56,7,5,Over
+5,talk,57,7,6,Over
+5,talk,58,7,10,Over
+5,talk,59,7,12,Over
+5,talk,60,7,3,Over
+5,talk,61,7,8,Skip
+5,talk,62,7,9,Over
+5,talk,63,7,7,Skip
+5,talk,64,8,10,Over
+5,talk,65,8,9,Over
+5,talk,66,8,8,Over
+5,talk,67,8,3,Over
+5,talk,68,8,5,Over
+5,talk,69,8,12,Over
+5,talk,70,8,6,Over
+5,talk,71,8,7,Over
+5,vote,3,8
+5,vote,5,7
+5,vote,6,7
+5,vote,7,8
+5,vote,8,7
+5,vote,9,7
+5,vote,10,7
+5,vote,12,7
+5,execute,7,WEREWOLF
+5,attackVote,3,6
+5,attack,6,true
+6,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+6,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+6,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+6,status,4,SEER,DEAD,SampleRoleAssignPlayer
+6,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+6,status,6,VILLAGER,DEAD,SampleRoleAssignPlayer
+6,status,7,WEREWOLF,DEAD,SampleRoleAssignPlayer
+6,status,8,POSSESSED,ALIVE,SampleRoleAssignPlayer
+6,status,9,VILLAGER,ALIVE,SampleRoleAssignPlayer
+6,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+6,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+6,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+6,status,13,BODYGUARD,DEAD,SampleRoleAssignPlayer
+6,status,14,MEDIUM,DEAD,SampleRoleAssignPlayer
+6,status,15,VILLAGER,DEAD,SampleRoleAssignPlayer
+6,talk,0,0,3,VOTE Agent[14]
+6,talk,1,0,9,VOTE Agent[12]
+6,talk,2,0,10,VOTE Agent[12]
+6,talk,3,0,5,VOTE Agent[08]
+6,talk,4,0,8,DAY 6 (DIVINED Agent[10] HUMAN)
+6,talk,5,0,12,VOTE Agent[08]
+6,talk,6,1,3,REQUEST ANY (VOTE Agent[14])
+6,talk,7,1,9,REQUEST ANY (VOTE Agent[12])
+6,talk,8,1,12,REQUEST ANY (VOTE Agent[08])
+6,talk,9,1,5,REQUEST ANY (VOTE Agent[08])
+6,talk,10,1,10,REQUEST ANY (VOTE Agent[12])
+6,talk,11,1,8,DIVINED Agent[10] HUMAN
+6,talk,12,2,5,Skip
+6,talk,13,2,8,VOTE Agent[01]
+6,talk,14,2,3,Skip
+6,talk,15,2,12,Skip
+6,talk,16,2,9,Skip
+6,talk,17,2,10,Skip
+6,talk,18,3,12,Skip
+6,talk,19,3,10,Skip
+6,talk,20,3,8,REQUEST ANY (VOTE Agent[01])
+6,talk,21,3,9,Skip
+6,talk,22,3,3,Skip
+6,talk,23,3,5,Skip
+6,talk,24,4,12,Over
+6,talk,25,4,10,Over
+6,talk,26,4,8,VOTE Agent[03]
+6,talk,27,4,9,Over
+6,talk,28,4,3,Over
+6,talk,29,4,5,Over
+6,talk,30,5,9,Over
+6,talk,31,5,10,Over
+6,talk,32,5,12,Over
+6,talk,33,5,8,REQUEST ANY (VOTE Agent[03])
+6,talk,34,5,5,Over
+6,talk,35,5,3,Over
+6,talk,36,6,5,Over
+6,talk,37,6,10,Over
+6,talk,38,6,3,Over
+6,talk,39,6,9,Over
+6,talk,40,6,12,Over
+6,talk,41,6,8,Skip
+6,talk,42,7,3,Over
+6,talk,43,7,5,Over
+6,talk,44,7,12,Over
+6,talk,45,7,10,Over
+6,talk,46,7,8,Skip
+6,talk,47,7,9,Over
+6,talk,48,8,12,Over
+6,talk,49,8,5,Over
+6,talk,50,8,3,Over
+6,talk,51,8,9,Over
+6,talk,52,8,10,Over
+6,talk,53,8,8,Over
+6,vote,3,9
+6,vote,5,8
+6,vote,8,12
+6,vote,9,12
+6,vote,10,3
+6,vote,12,8
+6,vote,3,8
+6,vote,5,8
+6,vote,8,12
+6,vote,9,8
+6,vote,10,8
+6,vote,12,8
+6,execute,8,POSSESSED
+6,attackVote,3,9
+6,attack,9,true
+7,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+7,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+7,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+7,status,4,SEER,DEAD,SampleRoleAssignPlayer
+7,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+7,status,6,VILLAGER,DEAD,SampleRoleAssignPlayer
+7,status,7,WEREWOLF,DEAD,SampleRoleAssignPlayer
+7,status,8,POSSESSED,DEAD,SampleRoleAssignPlayer
+7,status,9,VILLAGER,DEAD,SampleRoleAssignPlayer
+7,status,10,VILLAGER,ALIVE,SampleRoleAssignPlayer
+7,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+7,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+7,status,13,BODYGUARD,DEAD,SampleRoleAssignPlayer
+7,status,14,MEDIUM,DEAD,SampleRoleAssignPlayer
+7,status,15,VILLAGER,DEAD,SampleRoleAssignPlayer
+7,talk,0,0,10,VOTE Agent[05]
+7,talk,1,0,3,VOTE Agent[14]
+7,talk,2,0,5,VOTE Agent[12]
+7,talk,3,0,12,VOTE Agent[03]
+7,talk,4,1,12,REQUEST ANY (VOTE Agent[03])
+7,talk,5,1,5,REQUEST ANY (VOTE Agent[12])
+7,talk,6,1,3,REQUEST ANY (VOTE Agent[14])
+7,talk,7,1,10,REQUEST ANY (VOTE Agent[05])
+7,talk,8,2,3,Skip
+7,talk,9,2,12,Skip
+7,talk,10,2,5,Skip
+7,talk,11,2,10,Skip
+7,talk,12,3,5,Skip
+7,talk,13,3,3,Skip
+7,talk,14,3,12,Skip
+7,talk,15,3,10,Skip
+7,talk,16,4,10,Over
+7,talk,17,4,12,Over
+7,talk,18,4,5,Over
+7,talk,19,4,3,Over
+7,vote,3,10
+7,vote,5,10
+7,vote,10,3
+7,vote,12,5
+7,execute,10,VILLAGER
+7,attackVote,3,5
+7,attack,5,true
+8,status,1,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,2,WEREWOLF,DEAD,SampleRoleAssignPlayer
+8,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+8,status,4,SEER,DEAD,SampleRoleAssignPlayer
+8,status,5,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,6,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,7,WEREWOLF,DEAD,SampleRoleAssignPlayer
+8,status,8,POSSESSED,DEAD,SampleRoleAssignPlayer
+8,status,9,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,10,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,11,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,status,12,VILLAGER,ALIVE,SampleRoleAssignPlayer
+8,status,13,BODYGUARD,DEAD,SampleRoleAssignPlayer
+8,status,14,MEDIUM,DEAD,SampleRoleAssignPlayer
+8,status,15,VILLAGER,DEAD,SampleRoleAssignPlayer
+8,result,1,1,WEREWOLF

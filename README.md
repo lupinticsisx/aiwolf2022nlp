@@ -9,8 +9,13 @@ https://github.com/k-harada/AIWolfPy
 https://github.com/1never/aiwolf_keldic_gat2017
 5. fix bug in keldic.py: 
 indent error at line 79 in keldic.py
-6. connect keldic to the server
-python keldic.py -h localhost -p 10000
+6. connect keldic to the server 
+
+* start python keldic.py -h localhost -p 10000
+
+or
+
+* python keldic.py -h localhost -p 10000
 
  
 

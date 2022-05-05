@@ -1,0 +1,34 @@
+0,status,1,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,2,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,3,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,4,WEREWOLF,ALIVE,SampleRoleAssignPlayer
+0,status,5,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,6,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,7,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,8,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,9,MEDIUM,ALIVE,SampleRoleAssignPlayer
+0,status,10,BODYGUARD,ALIVE,SampleRoleAssignPlayer
+0,status,11,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,12,POSSESSED,ALIVE,SampleRoleAssignPlayer
+0,status,13,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,status,14,SEER,ALIVE,SampleRoleAssignPlayer
+0,status,15,VILLAGER,ALIVE,SampleRoleAssignPlayer
+0,whisper,0,0,4,COMINGOUT Agent[04] SEER
+0,whisper,1,0,2,COMINGOUT Agent[02] MEDIUM
+0,whisper,2,0,3,COMINGOUT Agent[03] MEDIUM
+0,whisper,3,1,3,Skip
+0,whisper,4,1,2,COMINGOUT Agent[02] VILLAGER
+0,whisper,5,1,4,Skip
+0,whisper,6,2,2,Skip
+0,whisper,7,2,3,Skip
+0,whisper,8,2,4,DIVINED Agent[10] WEREWOLF
+0,whisper,9,3,2,Skip
+0,whisper,10,3,3,Over
+0,whisper,11,3,4,Skip
+0,whisper,12,4,4,Skip
+0,whisper,13,4,2,Over
+0,whisper,14,4,3,Over
+0,whisper,15,5,4,Over
+0,whisper,16,5,3,Over
+0,whisper,17,5,2,Over
+0,divine,14,8,HUMAN

@@ -67,23 +67,23 @@ def update(self, game_info, talk_history, whisper_history, request=None):
         #self._print_talk(talk_history)
         pass
 
-    def finish(self):
+def finish(self):
         self.agent.finish(self.game_info)
         return None
 
-    def vote(self):
+def vote(self):
         return self.agent.vote(self.talk_history, self.whisper_history)
 
-    def attack(self):
+def attack(self):
         return self.agent.attack()
 
-    def divine(self):
+def divine(self):
         return self.agent.divine()
 
-    def talk(self):
+def talk(self):
         return self.agent.talk(self.talk_history, self.whisper_history)
 
-    def reset(self):
+def reset(self):
         self.agentIdx = self.game_info['agent']
         self.role = self.game_info["roleMap"][str(self.agentIdx)]
 

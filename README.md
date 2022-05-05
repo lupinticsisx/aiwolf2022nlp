@@ -5,9 +5,12 @@ http://aiwolf.org/server
 2. Download aiwolfpy ver0.4.9 from:
 https://github.com/k-harada/AIWolfPy 
 3. run StartServer.bat 
-4. connect keldic agent to the server: 
-Download keldic.py from:
-
+4. Download keldic.py from:
+https://github.com/1never/aiwolf_keldic_gat2017
+5. fix bug in keldic.py: 
+indent error at line 79 in keldic.py
+6. connect keldic to the server
+python keldic.py -h localhost -p 10000
 
  
 

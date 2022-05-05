@@ -1,5 +1,5 @@
 # aiwolf2022nlp
-minato
+
 ### Move to AIWolf-ver0.6.3
 run StartServer.sh 
 click CONNECT

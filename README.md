@@ -19,7 +19,7 @@ click Start Game
 		
 
 reference:
-https://www.slideshare.net/HaradaKei/aiwolfpy-v049
-https://github.com/k-harada/AIWolfPy
-https://github.com/1never/aiwolf_keldic_gat2017
+https://www.slideshare.net/HaradaKei/aiwolfpy-v049,
+https://github.com/k-harada/AIWolfPy,
+https://github.com/1never/aiwolf_keldic_gat2017,
 http://aiwolf.org/en/server

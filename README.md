@@ -10,6 +10,7 @@ Add Agents. (choose from types) # of agents should match Num_of_Players in the S
 
 
 ### Move to aiwolf_keldic_gat2017-master
+Activate Python Env
 run the following command
 .\keldic.py -h localhost -p 10000
 

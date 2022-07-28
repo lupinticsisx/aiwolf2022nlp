@@ -1,0 +1,16 @@
+{
+  "additional_special_tokens": [],
+  "bos_token": "<s>",
+  "cls_token": "[CLS]",
+  "do_lower_case": true,
+  "eos_token": "</s>",
+  "extra_ids": 0,
+  "mask_token": "[MASK]",
+  "name_or_path": "rinna/japanese-gpt2-medium",
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": "/root/.cache/huggingface/transformers/42091916a8a40b3949b8a4f56ce63e437a166ae0e88d1d15546860c13bdc5ceb.9049458ebcd1cf666b7b0a046aa394597f12e611077571cfc86e0938f8675d82",
+  "tokenizer_class": "T5Tokenizer",
+  "unk_token": "<unk>"
+}
